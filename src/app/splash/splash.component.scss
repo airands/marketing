@@ -10,4 +10,18 @@
     width: 90%;
     max-width: 400px;
   }
+
+  .social-icons {
+    margin: 0 auto;
+    position: relative;
+    top: 24px;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    max-width: 300px;
+
+    a {
+      color: white;
+    }
+  }
 }
